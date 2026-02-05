@@ -1,1 +1,2 @@
 # Emotion-Based_Quote_Recommendation_System
+The Emotion-Based Quote Recommendation System is a Python project that detects a user's mood from text input and suggests relevant motivational or relatable quotes. It also stores emotion history and generates a weekly report with a bar chart to analyze emotional trends. The project uses keyword-based emotion detection, JSON for data storage, and Matplotlib for visualization.
